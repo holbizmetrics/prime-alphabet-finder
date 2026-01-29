@@ -74,6 +74,20 @@ python3 deep_analysis.py
 - 60+ documented special properties
 - Probability of all properties aligning: ~1 in 79,000
 
+---
+
+## Binary & Fractal Analysis
+
+See [`binary-fractal-analysis/`](binary-fractal-analysis/) for additional research:
+
+- **Binary index structure** of prime positions
+- **Topological data analysis** on prime gap clouds
+- **Mandelbulb/fractal escape dynamics** with prime-encoded parameters
+
+Key finding: Fractal escape times provide a valid nonlinear lens for measuring Hardy-Littlewood k-tuple constraints. Rigorously tested with multi-AI verification.
+
+---
+
 ## License
 
 MIT
